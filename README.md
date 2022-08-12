@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @augustineCaesar based in Nairobi Kenya!
+- 👋 Hi, I’m @augustineCaesar, a fullstack developer based in Nairobi Kenya!
 - 👀 I’m interested in startups 
 - 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on anything interesting basically!
